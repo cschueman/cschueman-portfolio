@@ -2,6 +2,7 @@
 Stand Alone Portfolio
 
 ## content priority outline
+it's thing I made
 
 ## code samples
 

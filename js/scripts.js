@@ -26,5 +26,4 @@ $('figure').lightGallery({
   speed: 100,
   share: false,
   autoplay: false,
-  
 });

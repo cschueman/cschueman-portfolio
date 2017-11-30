@@ -80,3 +80,7 @@ figure {
 .lg-outer.lg-pull-caption-up.lg-thumb-open .lg-sub-html {
     display: none;
 }
+
+.lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
+    border-color: #ffa17c;
+}
