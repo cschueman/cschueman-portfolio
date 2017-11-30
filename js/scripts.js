@@ -18,3 +18,13 @@ $('figure').lightGallery({
     selector: 'a', 
     thumbnail: true,
 });
+
+$('figure').lightGallery({
+  selector: 'a',
+  mode: 'lg-fade',
+  download: false,
+  speed: 100,
+  share: false,
+  autoplay: false,
+  
+});
